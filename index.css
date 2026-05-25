@@ -1,3 +1,10 @@
 /* Base tokens */
+@import "./base/font-family.css";
+@import "./base/dimension.css";
+@import "./base/string.css";
+@import "./base/border-radius.css";
+@import "./base/font-weight.css";
 @import "./base/color.css";
+@import "./base/shadow.css";
+@import "./base/blur.css";
 @import "./base/typography.css";
