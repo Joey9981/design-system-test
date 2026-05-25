@@ -4,7 +4,7 @@
  */
 
 .theme-jupiter {
-  --dsprimarydimensionnumber: 0px;
+  --dsprimarydimensionpalettemagentanumber: 0px;
   --dsprimarydimensionsizingsize0: 0px;
   --dsprimarydimensionsizingsize2: 2px;
   --dsprimarydimensionsizingsize4: 4px;
@@ -13,5 +13,5 @@
   --dsprimarydimensionsizingsize16: 16px;
   --dsprimarydimensionsizingsize24: 24px;
   --dsprimarydimensionsizingsize32: 32px;
-  --dsprimarydimensionpalettemagentanumber: 0px;
+  --dsprimarydimensionnumber: 0px;
 }

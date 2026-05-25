@@ -4,6 +4,6 @@
  */
 
 .theme-jupiter {
-  --dsprimarystring: "String value";
   --dsprimarystringpalettemagentastring: "String value";
+  --dsprimarystring: "String value";
 }
