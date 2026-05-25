@@ -1,32 +1,3 @@
 /* Base tokens */
-@import "./base/dimension.css";
-@import "./base/string.css";
-@import "./base/border-radius.css";
-@import "./base/font-weight.css";
-@import "./base/font-family.css";
 @import "./base/color.css";
-@import "./base/shadow.css";
 @import "./base/typography.css";
-@import "./base/blur.css";
-
-/* Theme: Dark */
-@import "./dark/dimension.css";
-@import "./dark/string.css";
-@import "./dark/border-radius.css";
-@import "./dark/font-weight.css";
-@import "./dark/font-family.css";
-@import "./dark/color.css";
-@import "./dark/shadow.css";
-@import "./dark/typography.css";
-@import "./dark/blur.css";
-
-/* Theme: Jupiter */
-@import "./jupiter/dimension.css";
-@import "./jupiter/string.css";
-@import "./jupiter/border-radius.css";
-@import "./jupiter/font-weight.css";
-@import "./jupiter/font-family.css";
-@import "./jupiter/color.css";
-@import "./jupiter/shadow.css";
-@import "./jupiter/typography.css";
-@import "./jupiter/blur.css";
