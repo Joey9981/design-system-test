@@ -1,0 +1,18 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --typography-lg-test: 400 32px "Instrument Sans";
+  --typography-h1: 700 57px/64px "Montserrat";
+  --typography-h2: 700 43px/50px "Montserrat";
+  --typography-h3: 700 32px/40px "Montserrat";
+  --typography-h4: 700 24px/32px "Montserrat";
+  --typography-h5: 700 21px/29px "Montserrat";
+  --typography-large-lead: 400 24px/32px "Montserrat";
+  --typography-medium-lead: 400 21px/29px "Montserrat";
+  --typography-paragraph: 400 18px/26px "Montserrat";
+  --typography-small-paragraph: 400 16px/24px "Montserrat";
+  --typography-tiny-paragraph: 400 12px/24px "Montserrat";
+}
