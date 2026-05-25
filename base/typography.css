@@ -5,47 +5,47 @@
 
 :root {
   /* Main title of the page */
-  --dsprimarytypographytitle1: 700 32px/40px "Inter";
-  --dsprimarytypographytitle2: 640 24px/32px "Inter";
-  --dsprimarytypographytitle3: 640 20px/28px "Inter";
-  --dsprimarytypographytitle4: 640 16px/24px "Inter";
+  --typography-title-1: 700 32px/40px "Inter";
+  --typography-title-2: 640 24px/32px "Inter";
+  --typography-title-3: 640 20px/28px "Inter";
+  --typography-title-4: 640 16px/24px "Inter";
   /* For documentation body */
-  --dsprimarytypographybodylargeweightregular: 400 16px/24px "Inter";
+  --typography-body-large-weight-regular: 400 16px/24px "Inter";
   /* For documentation body */
-  --dsprimarytypographybodylargeweightsemibold: 500 16px/24px "Inter";
+  --typography-body-large-weight-semibold: 500 16px/24px "Inter";
   /* For documentation body */
-  --dsprimarytypographybodylargeweightbold: 640 16px/24px "Inter";
+  --typography-body-large-weight-bold: 640 16px/24px "Inter";
   /* Default text for everything */
-  --dsprimarytypographybodydefaultweightregular: 400 14px/20px "Inter";
+  --typography-body-default-weight-regular: 400 14px/20px "Inter";
   /* Default text for everything */
-  --dsprimarytypographybodydefaultweightsemibold: 500 14px/20px "Inter";
+  --typography-body-default-weight-semibold: 500 14px/20px "Inter";
   /* Default text for everything */
-  --dsprimarytypographybodydefaultweightbold: 640 14px/20px "Inter";
-  --dsprimarytypographybodysmallweightregular: 400 12px/16px "Inter";
-  --dsprimarytypographybodysmallweightsemibold: 500 12px/16px "Inter";
-  --dsprimarytypographybodysmallweightbold: 640 12px/16px "Inter";
-  --dsprimarytypographycaptionweightregular: 400 12px/16px "Inter";
-  --dsprimarytypographycaptionweightsemibold: 500 12px/16px "Inter";
-  --dsprimarytypographycaptionweightbold: 640 12px/16px "Inter";
-  --dsprimarytypographycaptionsmallweightsemibold: 500 10px/12px "Inter";
-  --dsprimarytypographycaptionsmallweightbold: 640 10px/12px "Inter";
-  --dsprimarytypographydocstitle1: 640 28px/36px "Inter";
-  --dsprimarytypographydocstitle2: 640 24px/32px "Inter";
-  --dsprimarytypographydocstitle3: 640 20px/28px "Inter";
-  --dsprimarytypographydocstitle4: 640 18px/24px "Inter";
-  --dsprimarytypographyfeatured1largeweightregular: 400 32px/40px "Inter";
-  --dsprimarytypographyfeatured1largeweightmedium: 500 32px/40px "Inter";
-  --dsprimarytypographyfeatured1largeweightbold: 700 32px/40px "Inter";
-  --dsprimarytypographyfeatured2mediumweightregular: 400 24px/32px "Inter";
-  --dsprimarytypographyfeatured2mediumweightmedium: 500 24px/32px "Inter";
-  --dsprimarytypographyfeatured2mediumweightbold: 700 28.8px/32px "Inter";
-  --dsprimarytypographyfeatured3smallweightregular: 400 20px/28px "Inter";
-  --dsprimarytypographyfeatured3smallweightmedium: 500 20px/28px "Inter";
-  --dsprimarytypographyfeatured3smallweightbold: 700 20px/28px "Inter";
-  --dsprimarytypographydocstitle5: 640 16px/20px "Inter";
-  --dsprimarytypographydocsquote: 400 20px/28px "Inter";
-  --dsprimarytypographydocsbodydefault: 400 16px/24px "Inter";
-  --dsprimarytypographydocsbodymedium: 400 14px/20px "Inter";
-  --dsprimarytypographydocsbodymediumbold: 700 14px/20px "Inter";
-  --dsprimarytypographydocsbodysmall: 400 12px/16px "Inter";
+  --typography-body-default-weight-bold: 640 14px/20px "Inter";
+  --typography-body-small-weight-regular: 400 12px/16px "Inter";
+  --typography-body-small-weight-semibold: 500 12px/16px "Inter";
+  --typography-body-small-weight-bold: 640 12px/16px "Inter";
+  --typography-caption-weight-regular: 400 12px/16px "Inter";
+  --typography-caption-weight-semibold: 500 12px/16px "Inter";
+  --typography-caption-weight-bold: 640 12px/16px "Inter";
+  --typography-caption-small-weight-semibold: 500 10px/12px "Inter";
+  --typography-caption-small-weight-bold: 640 10px/12px "Inter";
+  --typography-docs-title-1: 640 28px/36px "Inter";
+  --typography-docs-title-2: 640 24px/32px "Inter";
+  --typography-docs-title-3: 640 20px/28px "Inter";
+  --typography-docs-title-4: 640 18px/24px "Inter";
+  --typography-featured-1-large-weight-regular: 400 32px/40px "Inter";
+  --typography-featured-1-large-weight-medium: 500 32px/40px "Inter";
+  --typography-featured-1-large-weight-bold: 700 32px/40px "Inter";
+  --typography-featured-2-medium-weight-regular: 400 24px/32px "Inter";
+  --typography-featured-2-medium-weight-medium: 500 24px/32px "Inter";
+  --typography-featured-2-medium-weight-bold: 700 28.8px/32px "Inter";
+  --typography-featured-3-small-weight-regular: 400 20px/28px "Inter";
+  --typography-featured-3-small-weight-medium: 500 20px/28px "Inter";
+  --typography-featured-3-small-weight-bold: 700 20px/28px "Inter";
+  --typography-docs-title-5: 640 16px/20px "Inter";
+  --typography-docs-quote: 400 20px/28px "Inter";
+  --typography-docs-body-default: 400 16px/24px "Inter";
+  --typography-docs-body-medium: 400 14px/20px "Inter";
+  --typography-docs-body-medium-bold: 700 14px/20px "Inter";
+  --typography-docs-body-small: 400 12px/16px "Inter";
 }
