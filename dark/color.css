@@ -3,7 +3,7 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
+.theme-dark {
   --dsprimarycolorpalettegreen1100: rgb(14, 42, 33);
   --dsprimarycolorpalettegreen1000: rgb(28, 65, 48);
   --dsprimarycolorpalettegreen900: rgb(45, 105, 68);

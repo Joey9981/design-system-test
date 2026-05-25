@@ -3,7 +3,7 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
+.theme-jupiter {
   /* Main title of the page */
   --dsprimarytypographytitle1: 700 32px/40px "Inter";
   --dsprimarytypographytitle2: 640 24px/32px "Inter";

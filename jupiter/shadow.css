@@ -3,7 +3,7 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
+.theme-jupiter {
   --dsprimaryshadowoverlay: 0px 15px 25px 0px rgba(20, 23, 31, 0.07), 0px 5px 10px 0px rgba(20, 23, 31, 0.05);
   --dsprimaryshadowraisedreverse: 0px -1px 2px -1px rgba(20, 23, 31, 0.1), 0px -2px 3px 0px rgba(20, 23, 31, 0.1);
   --dsprimaryshadowoverlayreverse: 0px -15px 25px 0px rgba(20, 23, 31, 0.07), 0px -5px 10px 0px rgba(20, 23, 31, 0.05);

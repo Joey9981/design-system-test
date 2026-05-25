@@ -3,12 +3,12 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
+.theme-jupiter {
   --dsprimaryborderradiusnone: 0px;
   --dsprimaryborderradiussm: 4px;
   --dsprimaryborderradiusmd: 8px;
   --dsprimaryborderradiuslg: 16px;
   --dsprimaryborderradiusfull: 999px;
-  --dsprimaryborderradiussemanticradiusprimary: var(--dsprimaryborderradiusmd);
+  --dsprimaryborderradiussemanticradiusprimary: var(--dsprimaryborderradiussm);
   --dsprimaryborderradiusbuttonradius: var(--dsprimaryborderradiussemanticradiusprimary);
 }

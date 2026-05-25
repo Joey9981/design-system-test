@@ -3,6 +3,7 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
-  --dsprimaryfontfamilypalettegreenstring: "String value";
+.theme-dark {
+  --dsprimaryfontweightregular: 400;
+  --dsprimaryfontweightbold: 700;
 }

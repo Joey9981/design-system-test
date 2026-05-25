@@ -3,7 +3,7 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
+.theme-jupiter {
   --dsprimarycolorpalettegreen1100: rgb(14, 42, 33);
   --dsprimarycolorpalettegreen1000: rgb(28, 65, 48);
   --dsprimarycolorpalettegreen900: rgb(45, 105, 68);
@@ -140,17 +140,17 @@
   --dsprimarycolorpalettemagenta200: rgb(236, 199, 244);
   --dsprimarycolorpalettemagenta100: rgb(245, 228, 250);
   --dsprimarycolorpalettemagenta0: rgb(252, 240, 254);
-  --dsprimarycolorsemanticcolorprimarybackground: var(--dsprimarycolorpalettemagenta500);
+  --dsprimarycolorsemanticcolorprimarybackground: var(--dsprimarycolorpaletteyellow500);
   --dsprimarycolorbuttonbackgroundactive: var(--dsprimarycolorsemanticcolorprimarybackground);
-  --dsprimarycolorsemanticcolorprimaryhoverbackground: var(--dsprimarycolorpalettemagenta800);
+  --dsprimarycolorsemanticcolorprimaryhoverbackground: var(--dsprimarycolorpaletteyellow700);
   --dsprimarycolorbuttonbackgroundhover: var(--dsprimarycolorsemanticcolorprimaryhoverbackground);
-  --dsprimarycolorsemanticcolorprimaryhoverinnactivebackground: var(--dsprimarycolorpalettemagenta100);
+  --dsprimarycolorsemanticcolorprimaryhoverinnactivebackground: var(--dsprimarycolorpaletteyellow100);
   --dsprimarycolorbuttonbackgroundinnactive: var(--dsprimarycolorsemanticcolorprimaryhoverinnactivebackground);
-  --dsprimarycolorsemanticcolorprimarycolor: var(--dsprimarycolorpaletteneutral0);
+  --dsprimarycolorsemanticcolorprimarycolor: var(--dsprimarycolorpaletteneutral1100);
   --dsprimarycolorbuttoncoloractive: var(--dsprimarycolorsemanticcolorprimarycolor);
-  --dsprimarycolorsemanticcolorprimaryhovercolor: var(--dsprimarycolorpalettemagenta1000);
+  --dsprimarycolorsemanticcolorprimaryhovercolor: var(--dsprimarycolorpaletteyellow1000);
   --dsprimarycolorbuttoncolorhover: var(--dsprimarycolorsemanticcolorprimaryhovercolor);
-  --dsprimarycolorsemanticcolorprimaryhoverinnactivecolor: var(--dsprimarycolorpalettemagenta700);
+  --dsprimarycolorsemanticcolorprimaryhoverinnactivecolor: var(--dsprimarycolorpaletteyellow700);
   --dsprimarycolorbuttoncolorinnactive: var(--dsprimarycolorsemanticcolorprimaryhoverinnactivecolor);
   --dsprimarycolorsemanticcolorinfobackground: var(--dsprimarycolorpaletteblue100);
   --dsprimarycolorsemanticcolorinfoborder: var(--dsprimarycolorpaletteblue500);
@@ -161,28 +161,28 @@
   --dsprimarycolorsemanticcoloropportunityborder: var(--dsprimarycolorpaletteaqua300);
   --dsprimarycolorsemanticcoloropportunitycolor: var(--dsprimarycolorpaletteaqua800);
   --dsprimarycolorsemanticcoloropportunityicon: var(--dsprimarycolorpaletteaqua700);
-  --dsprimarycolorsemanticcolorprimaryborder: var(--dsprimarycolorpalettemagenta600);
+  --dsprimarycolorsemanticcolorprimaryborder: var(--dsprimarycolorpaletteyellow600);
   /* Some test description */
   --dsprimarycolorsemanticcolorsalesale30background: var(--dsprimarycolorpaletteteal500);
   --dsprimarycolorsemanticcolorsalesale50background: var(--dsprimarycolorpalettepink600);
   --dsprimarycolorsemanticcolorsalesale70background: var(--dsprimarycolorpaletteyellow600);
   --dsprimarycolorsemanticcolorsalecolor: var(--dsprimarycolorpaletteneutral0);
-  --dsprimarycolorsemanticcolorsuccessbackground: var(--dsprimarycolorpaletteaqua100);
-  --dsprimarycolorsemanticcolorsuccessborder: var(--dsprimarycolorpaletteblue1000);
-  --dsprimarycolorsemanticcolorsuccesscolor: var(--dsprimarycolorpaletteblue900);
-  --dsprimarycolorsemanticcolorsuccessicon: var(--dsprimarycolorpaletteblue800);
-  --dsprimarycolorsemanticcolortextbody: var(--dsprimarycolorpalettemagenta1000);
+  --dsprimarycolorsemanticcolorsuccessbackground: var(--dsprimarycolorpalettegreen100);
+  --dsprimarycolorsemanticcolorsuccessborder: var(--dsprimarycolorpalettegreen400);
+  --dsprimarycolorsemanticcolorsuccesscolor: var(--dsprimarycolorpalettegreen900);
+  --dsprimarycolorsemanticcolorsuccessicon: var(--dsprimarycolorpalettegreen800);
+  --dsprimarycolorsemanticcolortextbody: var(--dsprimarycolorpaletteorange1000);
   --dsprimarycolorsemanticcolortextheadline: var(--dsprimarycolorpaletteorange1100);
   --dsprimarycolorsemanticcolortextinverse: var(--dsprimarycolorpaletteneutral0);
   --dsprimarycolorsemanticcolortextsubtext: var(--dsprimarycolorpaletteneutral700);
-  --dsprimarycolorsemanticcolorwarningbackground: var(--dsprimarycolorpaletteorange700);
-  --dsprimarycolorsemanticcolorwarningborder: var(--dsprimarycolorpaletteorange600);
-  --dsprimarycolorsemanticcolorwarningcolor: var(--dsprimarycolorpaletteorange900);
-  --dsprimarycolorsemanticcolorwarningicon: var(--dsprimarycolorpaletteorange800);
+  --dsprimarycolorsemanticcolorwarningbackground: rgb(255, 255, 255);
+  --dsprimarycolorsemanticcolorwarningborder: var(--dsprimarycolorpaletteyellow600);
+  --dsprimarycolorsemanticcolorwarningcolor: var(--dsprimarycolorpaletteyellow900);
+  --dsprimarycolorsemanticcolorwarningicon: var(--dsprimarycolorpaletteyellow800);
   /* Used for error backgrunds */
   --dsprimarycolorsemanticcolorerrorbackground: var(--dsprimarycolorpalettered100);
   --dsprimarycolorsemanticcolorerrorborder: var(--dsprimarycolorpalettered600);
   --dsprimarycolorsemanticcolorerrorcolor: var(--dsprimarycolorpalettered800);
-  --dsprimarycolorsemanticcolorprimaryactivebackground: var(--dsprimarycolorpalettemagenta500);
-  --dsprimarycolorsemanticcolorprimaryhoveractivebackground: var(--dsprimarycolorpalettemagenta400);
+  --dsprimarycolorsemanticcolorprimaryactivebackground: var(--dsprimarycolorpaletteyellow600);
+  --dsprimarycolorsemanticcolorprimaryhoveractivebackground: var(--dsprimarycolorpaletteyellow400);
 }
