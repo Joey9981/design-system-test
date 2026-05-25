@@ -4,13 +4,13 @@
  */
 
 :root {
-  --dsprimaryshadowoverlay: 0px 15px 25px 0px rgba(20, 23, 31, 0.07), 0px 5px 10px 0px rgba(20, 23, 31, 0.05);
-  --dsprimaryshadowraisedreverse: 0px -1px 2px -1px rgba(20, 23, 31, 0.1), 0px -2px 3px 0px rgba(20, 23, 31, 0.1);
-  --dsprimaryshadowoverlayreverse: 0px -15px 25px 0px rgba(20, 23, 31, 0.07), 0px -5px 10px 0px rgba(20, 23, 31, 0.05);
-  --dsprimaryshadowraisedside: -2px 0px 3px 0px rgba(20, 23, 31, 0.1), -1px 0px 2px -1px rgba(20, 23, 31, 0.1);
-  --dsprimaryshadowoverlayside: -5px 0px 10px 0px rgba(20, 23, 31, 0.05), -15px 0px 25px 0px rgba(20, 23, 31, 0.07);
-  --dsprimaryshadowfocusring: 0px 0px 0px 3px rgb(26, 88, 208), 0px 0px 0px 1px rgb(255, 255, 255);
-  --dsprimaryshadowfocusringfaded: 0px 0px 0px 3px rgba(86, 153, 255, 0.3), 0px 0px 0px 1px rgb(255, 255, 255);
   /* Use for actionable elements, such as buttons, etc. */
-  --dsprimaryshadowraised: 0px 1px 3px -1px rgba(9, 18, 42, 0.06), 0px 1px 3px -3px rgba(9, 18, 42, 0.1);
+  --shadow-raised: 0px 1px 3px -1px #09122a0f, 0px 1px 3px -3px #09122a1a;
+  --shadow-overlay: 0px 15px 25px 0px #14171f12, 0px 5px 10px 0px #14171f0d;
+  --shadow-raised-reverse: 0px -1px 2px -1px #14171f1a, 0px -2px 3px 0px #14171f1a;
+  --shadow-overlay-reverse: 0px -15px 25px 0px #14171f12, 0px -5px 10px 0px #14171f0d;
+  --shadow-raised-side: -2px 0px 3px 0px #14171f1a, -1px 0px 2px -1px #14171f1a;
+  --shadow-overlay-side: -5px 0px 10px 0px #14171f0d, -15px 0px 25px 0px #14171f12;
+  --shadow-focus-ring: 0px 0px 0px 3px #1a58d0, 0px 0px 0px 1px #ffffff;
+  --shadow-focus-ring-faded: 0px 0px 0px 3px #5699ff4d, 0px 0px 0px 1px #ffffff;
 }
