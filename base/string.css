@@ -4,6 +4,6 @@
  */
 
 :root {
-  --dsprimarystringpalettemagentastring: "String value";
-  --dsprimarystring: "String value";
+  --string-palette-magenta-string: "String value";
+  --string: "String value";
 }
