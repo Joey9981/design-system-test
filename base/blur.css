@@ -4,5 +4,5 @@
  */
 
 :root {
-  --dsprimaryblur: blur(12px);
+  --blur: blur(12px);
 }
