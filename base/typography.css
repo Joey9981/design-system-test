@@ -4,6 +4,7 @@
  */
 
 :root {
+  --typography-lg-test: 400 32px "Instrument Sans";
   --typography-h1: 700 57px/64px "Montserrat";
   --typography-h2: 700 43px/50px "Montserrat";
   --typography-h3: 700 32px/40px "Montserrat";
@@ -14,6 +15,4 @@
   --typography-paragraph: 400 18px/26px "Montserrat";
   --typography-small-paragraph: 400 16px/24px "Montserrat";
   --typography-tiny-paragraph: 400 12px/24px "Montserrat";
-  --typography-test-1: 400 14px/20px "Inter";
-  --typography-lg-test: 400 32px "Instrument Sans";
 }
