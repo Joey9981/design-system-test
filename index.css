@@ -8,25 +8,3 @@
 @import "./base/shadow.css";
 @import "./base/blur.css";
 @import "./base/typography.css";
-
-/* Theme: Dark */
-@import "./dark/font-family.css";
-@import "./dark/dimension.css";
-@import "./dark/string.css";
-@import "./dark/border-radius.css";
-@import "./dark/font-weight.css";
-@import "./dark/color.css";
-@import "./dark/shadow.css";
-@import "./dark/blur.css";
-@import "./dark/typography.css";
-
-/* Theme: Jupiter */
-@import "./jupiter/font-family.css";
-@import "./jupiter/dimension.css";
-@import "./jupiter/string.css";
-@import "./jupiter/border-radius.css";
-@import "./jupiter/font-weight.css";
-@import "./jupiter/color.css";
-@import "./jupiter/shadow.css";
-@import "./jupiter/blur.css";
-@import "./jupiter/typography.css";
