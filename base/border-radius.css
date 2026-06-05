@@ -4,11 +4,11 @@
  */
 
 :root {
-  --border-radius-none: 0px;
-  --border-radius-sm: 4px;
-  --border-radius-md: 8px;
-  --border-radius-lg: 16px;
-  --border-radius-full: 999px;
-  --border-radius-semantic-radius-primary: var(--border-radius-md);
-  --border-radius-button-radius: var(--border-radius-semantic-radius-primary);
+  --dmcolorprmaryborderradiusnone: 0px;
+  --dmcolorprmaryborderradiussm: 4px;
+  --dmcolorprmaryborderradiusmd: 8px;
+  --dmcolorprmaryborderradiuslg: 16px;
+  --dmcolorprmaryborderradiusfull: 999px;
+  --dmcolorprmaryborderradiussemanticradiusprimary: var(--dmcolorprmaryborderradiusmd);
+  --dmcolorprmaryborderradiusbuttonradius: var(--dmcolorprmaryborderradiussemanticradiusprimary);
 }
