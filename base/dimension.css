@@ -4,14 +4,14 @@
  */
 
 :root {
-  --dmcolorprmarydimensionpalettemagentanumber: 0px;
-  --dmcolorprmarydimensionsizingsize0: 0px;
-  --dmcolorprmarydimensionsizingsize2: 2px;
-  --dmcolorprmarydimensionsizingsize4: 4px;
-  --dmcolorprmarydimensionsizingsize8: 8px;
-  --dmcolorprmarydimensionsizingsize12: 12px;
-  --dmcolorprmarydimensionsizingsize16: 16px;
-  --dmcolorprmarydimensionsizingsize24: 24px;
-  --dmcolorprmarydimensionsizingsize32: 32px;
-  --dmcolorprmarydimensionnumber: 0px;
+  --dimension-palette-magenta-number: 0px;
+  --dimension-sizing-size-0: 0px;
+  --dimension-sizing-size-2: 2px;
+  --dimension-sizing-size-4: 4px;
+  --dimension-sizing-size-8: 8px;
+  --dimension-sizing-size-12: 12px;
+  --dimension-sizing-size-16: 16px;
+  --dimension-sizing-size-24: 24px;
+  --dimension-sizing-size-32: 32px;
+  --dimension-number: 0px;
 }
