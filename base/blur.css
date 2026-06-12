@@ -4,5 +4,5 @@
  */
 
 :root {
-  --dmcolorprmaryblur: blur(12px);
+  --blur: blur(12px);
 }
