@@ -4,6 +4,6 @@
  */
 
 :root {
-  --dmcolorprmaryfontweightregular: 400;
-  --dmcolorprmaryfontweightbold: 700;
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
 }
