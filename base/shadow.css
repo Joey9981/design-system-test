@@ -5,12 +5,12 @@
 
 :root {
   /* Use for actionable elements, such as buttons, etc. */
-  --dmcolorprmaryshadowraised: 0px 1px 3px -1px #09122a0f, 0px 1px 3px -3px #09122a1a;
-  --dmcolorprmaryshadowoverlay: 0px 15px 25px 0px #14171f12, 0px 5px 10px 0px #14171f0d;
-  --dmcolorprmaryshadowraisedreverse: 0px -1px 2px -1px #14171f1a, 0px -2px 3px 0px #14171f1a;
-  --dmcolorprmaryshadowoverlayreverse: 0px -15px 25px 0px #14171f12, 0px -5px 10px 0px #14171f0d;
-  --dmcolorprmaryshadowraisedside: -2px 0px 3px 0px #14171f1a, -1px 0px 2px -1px #14171f1a;
-  --dmcolorprmaryshadowoverlayside: -5px 0px 10px 0px #14171f0d, -15px 0px 25px 0px #14171f12;
-  --dmcolorprmaryshadowfocusring: 0px 0px 0px 3px #1a58d0, 0px 0px 0px 1px #ffffff;
-  --dmcolorprmaryshadowfocusringfaded: 0px 0px 0px 3px #5699ff4d, 0px 0px 0px 1px #ffffff;
+  --shadow-raised: 0px 1px 3px -1px #09122a0f, 0px 1px 3px -3px #09122a1a;
+  --shadow-overlay: 0px 15px 25px 0px #14171f12, 0px 5px 10px 0px #14171f0d;
+  --shadow-raised-reverse: 0px -1px 2px -1px #14171f1a, 0px -2px 3px 0px #14171f1a;
+  --shadow-overlay-reverse: 0px -15px 25px 0px #14171f12, 0px -5px 10px 0px #14171f0d;
+  --shadow-raised-side: -2px 0px 3px 0px #14171f1a, -1px 0px 2px -1px #14171f1a;
+  --shadow-overlay-side: -5px 0px 10px 0px #14171f0d, -15px 0px 25px 0px #14171f12;
+  --shadow-focus-ring: 0px 0px 0px 3px #1a58d0, 0px 0px 0px 1px #ffffff;
+  --shadow-focus-ring-faded: 0px 0px 0px 3px #5699ff4d, 0px 0px 0px 1px #ffffff;
 }
