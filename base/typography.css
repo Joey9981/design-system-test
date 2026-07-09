@@ -1,0 +1,51 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  /* Main title of the page */
+  --dscolorprimarytypographytitle1: 700 32px/40px "Inter";
+  --dscolorprimarytypographytitle2: 640 24px/32px "Inter";
+  --dscolorprimarytypographytitle3: 640 20px/28px "Inter";
+  --dscolorprimarytypographytitle4: 640 16px/24px "Inter";
+  /* For documentation body */
+  --dscolorprimarytypographybodylargeweightregular: 400 16px/24px "Inter";
+  /* For documentation body */
+  --dscolorprimarytypographybodylargeweightsemibold: 500 16px/24px "Inter";
+  /* For documentation body */
+  --dscolorprimarytypographybodylargeweightbold: 640 16px/24px "Inter";
+  /* Default text for everything */
+  --dscolorprimarytypographybodydefaultweightregular: 400 14px/20px "Inter";
+  /* Default text for everything */
+  --dscolorprimarytypographybodydefaultweightsemibold: 500 14px/20px "Inter";
+  /* Default text for everything */
+  --dscolorprimarytypographybodydefaultweightbold: 640 14px/20px "Inter";
+  --dscolorprimarytypographybodysmallweightregular: 400 12px/16px "Inter";
+  --dscolorprimarytypographybodysmallweightsemibold: 500 12px/16px "Inter";
+  --dscolorprimarytypographybodysmallweightbold: 640 12px/16px "Inter";
+  --dscolorprimarytypographycaptionweightregular: 400 12px/16px "Inter";
+  --dscolorprimarytypographycaptionweightsemibold: 500 12px/16px "Inter";
+  --dscolorprimarytypographycaptionweightbold: 640 12px/16px "Inter";
+  --dscolorprimarytypographycaptionsmallweightsemibold: 500 10px/12px "Inter";
+  --dscolorprimarytypographycaptionsmallweightbold: 640 10px/12px "Inter";
+  --dscolorprimarytypographydocstitle1: 640 28px/36px "Inter";
+  --dscolorprimarytypographydocstitle2: 640 24px/32px "Inter";
+  --dscolorprimarytypographydocstitle3: 640 20px/28px "Inter";
+  --dscolorprimarytypographydocstitle4: 640 18px/24px "Inter";
+  --dscolorprimarytypographyfeatured1largeweightregular: 400 32px/40px "Inter";
+  --dscolorprimarytypographyfeatured1largeweightmedium: 500 32px/40px "Inter";
+  --dscolorprimarytypographyfeatured1largeweightbold: 700 32px/40px "Inter";
+  --dscolorprimarytypographyfeatured2mediumweightregular: 400 24px/32px "Inter";
+  --dscolorprimarytypographyfeatured2mediumweightmedium: 500 24px/32px "Inter";
+  --dscolorprimarytypographyfeatured2mediumweightbold: 700 28.8px/32px "Inter";
+  --dscolorprimarytypographyfeatured3smallweightregular: 400 20px/28px "Inter";
+  --dscolorprimarytypographyfeatured3smallweightmedium: 500 20px/28px "Inter";
+  --dscolorprimarytypographyfeatured3smallweightbold: 700 20px/28px "Inter";
+  --dscolorprimarytypographydocstitle5: 640 16px/20px "Inter";
+  --dscolorprimarytypographydocsquote: 400 20px/28px "Inter";
+  --dscolorprimarytypographydocsbodydefault: 400 16px/24px "Inter";
+  --dscolorprimarytypographydocsbodymedium: 400 14px/20px "Inter";
+  --dscolorprimarytypographydocsbodymediumbold: 700 14px/20px "Inter";
+  --dscolorprimarytypographydocsbodysmall: 400 12px/16px "Inter";
+}
